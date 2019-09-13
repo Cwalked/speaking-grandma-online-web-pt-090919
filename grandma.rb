@@ -2,7 +2,8 @@
 def speak_to_grandma (string)
   string = "I LOVE YOU GRANDMA!"
   
-  if 
+  if string == "I LOVE YOU GRANDMA!"
+    
     
 else
   "HUH?! SPEAK UP, SONNY!"
